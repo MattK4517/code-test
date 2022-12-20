@@ -1,0 +1,24 @@
+[
+    {
+        "id": 1,
+        "location": "Park",
+        "reported_by": {
+            "first_name": "Test",
+            "last_name": "Name"
+        },
+        "reported_at": "10:15",
+        "description": "Saw a red finch",
+        "number_of_birds": 1
+    },
+    {
+        "id": 2,
+        "location": "Beach",
+        "reported_by": {
+            "first_name": "Test",
+            "last_name": "Name 1"
+        },
+        "reported_at": "12:15",
+        "description": "Saw a red crow",
+        "number_of_birds": 1
+    }
+]
